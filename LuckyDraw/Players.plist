@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>grade</key>
+		<string>200x级</string>
+		<key>degree</key>
+		<string>博士</string>
+		<key>name</key>
+		<string>玩家一</string>
+	</dict>
+	<dict>
+		<key>grade</key>
+		<string>200x级</string>
+		<key>degree</key>
+		<string>硕士</string>
+		<key>name</key>
+		<string>玩家二</string>
+	</dict>
+</array>
+</plist>
